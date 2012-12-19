@@ -1,0 +1,401 @@
+# Copyright (C) 2010 Twenty Eleven
+# This file is distributed under the same license as the Twenty Eleven package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Atlantis Lakeballs [DE]\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-14 14:00+0100\n"
+"PO-Revision-Date: 2012-12-14 14:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: Pronamic <info@pronamic.nl>\n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__withdesc;_ewithdesc;_c;"
+"_n_noop:1,2;__ngettext_noop:1,2;_x:2c,1;_nc:1,2;esc_attr_e;esc_html_e;"
+"esc_attr__;_nx:4c,1,2;_nx_noop:4c,1,2;esc_html_x:2c,1;esc_html__;_ex:2c,1\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: header.php:67
+msgid "Need help? <strong><span>Call us 050 - 750 37 56</span></strong>"
+msgstr ""
+
+#: header.php:110
+msgid "Shopping cart"
+msgstr "Mein Warenkorb"
+
+#: header.php:116
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:117
+#, php-format
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] "%d produkt"
+msgstr[1] "%d produkte"
+
+#: header.php:123
+msgid "No products"
+msgstr "Keine produkte"
+
+#: category.php:44 search.php:33 archive.php:66 index.php:50 tag.php:45
+msgid "Nothing Found"
+msgstr ""
+
+#: category.php:48 archive.php:70 index.php:55 tag.php:51
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: content.php:18
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content.php:54 content.php:73
+msgid ", "
+msgstr ""
+
+#: content.php:62
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr ""
+
+#: content.php:79
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr ""
+
+#: content.php:90
+msgid "Subject: "
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:39
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:19
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:25
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: archive.php:27
+msgid "Blog Archives"
+msgstr ""
+
+#: index.php:14
+msgid "News"
+msgstr ""
+
+#: 404.php:13
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: single.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: single.php:62
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: functions.php:17
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:18
+msgid "Utility Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary sidebar"
+msgstr ""
+
+#: functions.php:91
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid "Footer widget area"
+msgstr ""
+
+#: functions.php:109
+msgid "[Shop] Product filter widget area"
+msgstr ""
+
+#: functions.php:118
+msgid "[Shop] After category widget area"
+msgstr ""
+
+#: functions.php:179 functions.php:192
+msgid "Brands"
+msgstr ""
+
+#: functions.php:181
+msgctxt "post type general name"
+msgid "Brands"
+msgstr ""
+
+#: functions.php:182
+msgctxt "post type singular name"
+msgid "Brand"
+msgstr ""
+
+#: functions.php:183
+msgctxt "brand"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:184
+msgid "Add New Brand"
+msgstr ""
+
+#: functions.php:185
+msgid "Edit Brand"
+msgstr ""
+
+#: functions.php:186
+msgid "New Brand"
+msgstr ""
+
+#: functions.php:187
+msgid "View Brand"
+msgstr ""
+
+#: functions.php:188
+msgid "Search Brands"
+msgstr ""
+
+#: functions.php:189
+msgid "No Brands found"
+msgstr ""
+
+#: functions.php:190
+msgid "No Brands found in Trash"
+msgstr ""
+
+#: functions.php:191
+msgid "Parent Brand:"
+msgstr ""
+
+#: functions.php:208 functions.php:221
+msgid "Banners"
+msgstr ""
+
+#: functions.php:210
+msgctxt "post type general name"
+msgid "Banners"
+msgstr ""
+
+#: functions.php:211
+msgctxt "post type singular name"
+msgid "Banner"
+msgstr ""
+
+#: functions.php:212
+msgctxt "banner"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:213
+msgid "Add New Banner"
+msgstr ""
+
+#: functions.php:214
+msgid "Edit Banner"
+msgstr ""
+
+#: functions.php:215
+msgid "New Banner"
+msgstr ""
+
+#: functions.php:216
+msgid "View Banner"
+msgstr ""
+
+#: functions.php:217
+msgid "Search Banners"
+msgstr ""
+
+#: functions.php:218
+msgid "No Banners found"
+msgstr ""
+
+#: functions.php:219
+msgid "No Banners found in Trash"
+msgstr ""
+
+#: functions.php:220
+msgid "Parent Banner:"
+msgstr ""
+
+#: functions.php:251
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:254
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:275
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:275 functions.php:303
+msgid "Edit"
+msgstr ""
+
+#: functions.php:292
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: functions.php:298
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:309
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:318
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: functions.php:335
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</"
+"time></a>"
+msgstr ""
+
+#: functions.php:367
+msgid "Banner funcionality details"
+msgstr ""
+
+#: functions.php:372
+msgid "Featured product"
+msgstr ""
+
+#: functions.php:380
+msgid "Banner destination (URL)"
+msgstr ""
+
+#: functions.php:388
+msgid "Base price"
+msgstr ""
+
+#: functions.php:396
+msgid "Sale price"
+msgstr ""
+
+#: functions.php:404
+msgid "Discount percentage"
+msgstr ""
+
+#: functions.php:496
+msgid "Lead paragraph"
+msgstr ""
+
+#: functions.php:500
+msgid "Emphasized unordered list"
+msgstr ""
+
+#: searchform.php:3 searchform.php:4 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: woocommerce/archive-product.php:21
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/archive-product.php:23
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: woocommerce/archive-product.php:68
+msgid "No products found which match your selection."
+msgstr ""
