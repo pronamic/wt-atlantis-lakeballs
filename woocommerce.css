@@ -90,6 +90,16 @@ body ul.products li.product .price ins .amount {
 
 body ul.products li.product .onsale { display: none; }
 
+/* Related products */
+body .related {
+	clear: both;
+}
+
+body .related ul.products li.product, 
+body .upsells.products ul.products li.product, 
+body .related ul li.product, 
+body .upsells.products ul li.product { width: 30.5%; }
+
 /*
  * Single product
  */
